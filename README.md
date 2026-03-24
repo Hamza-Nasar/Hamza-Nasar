@@ -249,16 +249,16 @@ A modern **real-time social platform for developers** designed for **speed, reli
 ## 🌍 Connect With Me
 
 <div align="center">
-  <a href="mailto:hamzanasar144@gmail.com">
+  <a href="mailto:hamzanasar144@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/hamza-nasar">
+  <a href="https://github.com/hamza-nasar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://hamza-dev-blond.vercel.app/">
+  <a href="https://hamza-dev-blond.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="https://linkedin.com/in/hamza-nasar-1363a4337">
+  <a href="https://linkedin.com/in/hamza-nasar-1363a4337" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
