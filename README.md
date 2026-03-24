@@ -258,7 +258,7 @@ A modern **real-time social platform for developers** designed for **speed, reli
   <a href="https://hamza-dev-blond.vercel.app/">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/hamza-nasar-1363a4337">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
