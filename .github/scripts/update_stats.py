@@ -63,6 +63,7 @@ def main():
     query = '''query($login:String!, $from:DateTime!, $to:DateTime!) {
       user(login:$login) { contributionsCollection(from:$from,to:$to) {
         totalCommitContributions totalPullRequestContributions totalIssueContributions
+        restrictedContributionsCount
         contributionCalendar { weeks { contributionDays { date contributionCount } } }
       } }
     }'''
@@ -72,6 +73,8 @@ def main():
         start = dt.datetime(year, 1, 1, tzinfo=dt.timezone.utc)
         end = min(dt.datetime(year, 12, 31, 23, 59, 59, tzinfo=dt.timezone.utc), now)
         data = graphql(query, {"login": OWNER, "from": start.isoformat(), "to": end.isoformat()})["user"]["contributionsCollection"]
+        if data["restrictedContributionsCount"]:
+            raise RuntimeError("Private contributions remain inaccessible. STATS_TOKEN also needs repo scope; totals were not updated.")
         for key in totals:
             totals[key] += data[key]
         for week in data["contributionCalendar"]["weeks"]:
