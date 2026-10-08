@@ -212,13 +212,22 @@ A modern **real-time social platform for developers** designed for **speed, reli
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hamza-nasar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-nasar&theme=tokyonight&hide_border=true&border_radius=14" />
+  <a href="https://github.com/Hamza-Nasar?tab=repositories">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamza-Nasar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=21600" alt="Hamza Nasar's GitHub statistics, generated from GitHub data" />
+  </a>
+  <a href="https://github.com/Hamza-Nasar#contributions">
+    <img height="170" src="https://streak-stats.demolab.com/?user=Hamza-Nasar&theme=tokyonight&hide_border=true&border_radius=14&timezone=Asia%2FKarachi" alt="Hamza Nasar's total contributions, current streak, and longest streak" />
+  </a>
 
   <br/><br/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-nasar&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Nasar&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=21600" alt="Most used languages across Hamza Nasar's public repositories" />
 </div>
+
+<p align="center">
+  Automatically generated from GitHub activity; cached cards may take time to refresh.
+  <a href="https://github.com/Hamza-Nasar#contributions">View current GitHub activity</a>.
+</p>
 
 ---
 
