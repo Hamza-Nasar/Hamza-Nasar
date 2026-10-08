@@ -1,0 +1,39 @@
+name: Update private and public GitHub stats
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Generate cards directly from GitHub API
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "Add the profile owner's classic PAT with read:user scope as STATS_TOKEN."
+            exit 1
+          fi
+          python3 .github/scripts/update_stats.py
+      - name: Save verified stats cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile/stats.svg profile/streak.svg README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: refresh public and private contribution stats'
+          git push
