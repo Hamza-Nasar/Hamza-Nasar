@@ -213,10 +213,10 @@ A modern **real-time social platform for developers** designed for **speed, reli
 
 <div align="center">
   <a href="https://github.com/Hamza-Nasar?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamza-Nasar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=21600" alt="Hamza Nasar's GitHub statistics, generated from GitHub data" />
+    <img height="170" src="./profile/stats.svg" alt="Hamza Nasar's GitHub statistics, generated from GitHub data" />
   </a>
   <a href="https://github.com/Hamza-Nasar#contributions">
-    <img height="170" src="https://streak-stats.demolab.com/?user=Hamza-Nasar&theme=tokyonight&hide_border=true&border_radius=14&timezone=Asia%2FKarachi" alt="Hamza Nasar's total contributions, current streak, and longest streak" />
+    <img height="170" src="./profile/streak.svg" alt="Hamza Nasar's total contributions, current streak, and longest streak" />
   </a>
 
   <br/><br/>
@@ -225,7 +225,7 @@ A modern **real-time social platform for developers** designed for **speed, reli
 </div>
 
 <p align="center">
-  Automatically generated from GitHub activity; cached cards may take time to refresh.
+  Updated hourly from the GitHub API. Commit, PR and issue counts cover repositories accessible to the token. Private activity with unavailable details is shown separately and included in the contribution calendar; it is not assumed to be commits. Language statistics cover public repositories.
   <a href="https://github.com/Hamza-Nasar#contributions">View current GitHub activity</a>.
 </p>
 
