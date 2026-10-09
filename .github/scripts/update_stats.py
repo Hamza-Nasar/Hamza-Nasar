@@ -19,8 +19,8 @@ def graphql(query, variables):
     with urllib.request.urlopen(request, timeout=60) as response:
         payload = json.load(response)
         scopes = response.headers.get("X-OAuth-Scopes", "")
-    if "read:user" not in [s.strip() for s in scopes.split(",")]:
-        raise RuntimeError("STATS_TOKEN needs the read:user scope for private contribution totals.")
+    if not {"read:user", "repo"}.issubset({s.strip() for s in scopes.split(",")}):
+        raise RuntimeError("The saved STATS_TOKEN needs both repo and read:user scopes; update the existing repository secret with that token.")
     if payload.get("errors"):
         raise RuntimeError("GitHub could not return complete contribution data; existing cards retained.")
     return payload["data"]
@@ -69,12 +69,12 @@ def main():
     }'''
     totals = {key: 0 for key in ("totalCommitContributions", "totalPullRequestContributions", "totalIssueContributions")}
     days = {}
+    restricted = 0
     for year in range(first_year, now.year + 1):
         start = dt.datetime(year, 1, 1, tzinfo=dt.timezone.utc)
         end = min(dt.datetime(year, 12, 31, 23, 59, 59, tzinfo=dt.timezone.utc), now)
         data = graphql(query, {"login": OWNER, "from": start.isoformat(), "to": end.isoformat()})["user"]["contributionsCollection"]
-        if data["restrictedContributionsCount"]:
-            raise RuntimeError("Private contributions remain inaccessible. STATS_TOKEN also needs repo scope; totals were not updated.")
+        restricted += data["restrictedContributionsCount"]
         for key in totals:
             totals[key] += data[key]
         for week in data["contributionCalendar"]["weeks"]:
@@ -83,10 +83,11 @@ def main():
     current, longest = streaks(days, now.astimezone(ZoneInfo("Asia/Karachi")).date())
     updated = now.strftime("%Y-%m-%d %H:%M UTC")
     stats = card("Hamza Nasar's GitHub Stats", [
-        ("Commits (all time)", totals["totalCommitContributions"]),
-        ("Pull requests (all time)", totals["totalPullRequestContributions"]),
-        ("Issues opened (all time)", totals["totalIssueContributions"]),
-    ], "Public + private contributions | Since account creation", updated)
+        ("Commits (accessible repos, all time)", totals["totalCommitContributions"]),
+        ("Pull requests (accessible repos)", totals["totalPullRequestContributions"]),
+        ("Issues opened (accessible repos)", totals["totalIssueContributions"]),
+    ] + ([("Private contributions (type unavailable)", restricted)] if restricted else []),
+    "GitHub contribution counts | Since account creation", updated)
     streak = card("GitHub Contribution Streak", [
         ("Total contributions (all time)", sum(days.values())),
         ("Current streak (days)", current),
@@ -102,7 +103,7 @@ def main():
     if stats_count != 1 or streak_count != 1:
         raise RuntimeError("Analytics markup changed; refusing to modify other README sections.")
     section = section.replace("Automatically generated from GitHub activity; cached cards may take time to refresh.",
-        "Public + private contribution totals from the GitHub API, updated hourly. Counts follow GitHub contribution rules; language statistics cover public repositories.")
+        "Updated hourly from the GitHub API. Commit, PR and issue counts cover repositories accessible to the token. Private activity with unavailable details is shown separately and included in the contribution calendar; it is not assumed to be commits. Language statistics cover public repositories.")
     Path("profile").mkdir(exist_ok=True)
     Path("profile/stats.svg").write_text(stats, encoding="utf-8")
     Path("profile/streak.svg").write_text(streak, encoding="utf-8")
