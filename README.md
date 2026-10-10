@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="./profile/icons/about.svg" width="24" height="24" align="absmiddle" alt="" /> About Me
+## <img src="./profile/icons/about.svg" width="22" height="24" align="absmiddle" alt="" /> About Me
 
 I'm a **Full Stack AI & SaaS Engineer** with **3+ years of full-stack product delivery**. I build AI agents, voice workflows, SaaS platforms, admin dashboards, and realtime systems with practical architecture and polished UX.
 
