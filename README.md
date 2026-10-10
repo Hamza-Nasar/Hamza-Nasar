@@ -20,15 +20,15 @@
 
 ---
 
-## <img src="./profile/icons/about.svg" width="28" height="28" alt="" /> About Me
+## <img src="./profile/icons/about.svg" width="24" height="24" align="absmiddle" alt="" /> About Me
 
 I'm a **Full Stack AI & SaaS Engineer** with **3+ years of full-stack product delivery**. I build AI agents, voice workflows, SaaS platforms, admin dashboards, and realtime systems with practical architecture and polished UX.
 
-- <img src="./profile/icons/ai.svg" width="22" height="22" alt="" /> **AI agents & automation:** tool calling, command routing, prompt systems, and business workflows with OpenAI and Gemini.
-- <img src="./profile/icons/voice.svg" width="22" height="22" alt="" /> **Voice & realtime:** speech input/output, ElevenLabs TTS, WebRTC, LiveKit, Socket.IO, and WebSocket audio bridges.
-- <img src="./profile/icons/saas.svg" width="22" height="22" alt="" /> **SaaS products:** authentication, billing, admin consoles, analytics, and SEO foundations.
-- <img src="./profile/icons/backend.svg" width="22" height="22" alt="" /> **Backend & data:** NestJS and FastAPI APIs, database migrations, queues, validation, and reliable deployment workflows.
-- <img src="./profile/icons/delivery.svg" width="22" height="22" alt="" /> **Delivery:** build, test, and verify with Playwright, Vitest, and pytest.
+- <img src="./profile/icons/ai.svg" width="18" height="18" align="absmiddle" alt="" /> **AI agents & automation:** tool calling, command routing, prompt systems, and business workflows with OpenAI and Gemini.
+- <img src="./profile/icons/voice.svg" width="18" height="18" align="absmiddle" alt="" /> **Voice & realtime:** speech input/output, ElevenLabs TTS, WebRTC, LiveKit, Socket.IO, and WebSocket audio bridges.
+- <img src="./profile/icons/saas.svg" width="18" height="18" align="absmiddle" alt="" /> **SaaS products:** authentication, billing, admin consoles, analytics, and SEO foundations.
+- <img src="./profile/icons/backend.svg" width="18" height="18" align="absmiddle" alt="" /> **Backend & data:** NestJS and FastAPI APIs, database migrations, queues, validation, and reliable deployment workflows.
+- <img src="./profile/icons/delivery.svg" width="18" height="18" align="absmiddle" alt="" /> **Delivery:** build, test, and verify with Playwright, Vitest, and pytest.
 
 ## 🛠️ Skills & Tools
 
