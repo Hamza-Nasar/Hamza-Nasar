@@ -1,38 +1,20 @@
-<div align="center">
+  <div align="center">
 
-# Hi 👋, I'm Hamza Nasar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F172A%2C45%3A7C3AED%2C100%3A06B6D4&height=220&section=header&text=Hamza+Nasar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full+Stack+AI+and+SaaS+Engineer&descAlignY=57&descSize=18" width="100%" alt="Hamza Nasar — Full Stack AI and SaaS Engineer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Full+Stack+AI+Developer;Building+AI-Powered+Solutions+for+Real+Businesses;SaaS+Platforms+%7C+Enterprise+Apps+%7C+Automation;Real-Time+Systems+%7C+Cloud+%7C+Premium+UX;Code.+Build.+Scale.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=AI+Agents+%26+Voice+Workflows%3BSaaS+Platforms+%26+Product+Engineering%3BRealtime+Systems+%26+Backend+Architecture%3BBuild.+Test.+Verify.+Ship." width="100%" alt="AI agents and voice workflows; SaaS platforms; realtime systems; build, test, verify, ship" />
 
-<br/><br/>
+**Practical AI. Reliable architecture. Polished product experiences.**
 
-<a href="https://hamza-dev-blond.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:hamzanasar144@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/hamza-nasar" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-hamza--nasar-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=hamza-nasar&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+<p>
+<a href="https://hamzanasar.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-hamzanasar.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a> <a href="https://www.linkedin.com/in/hamza-nasar-ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a> <a href="mailto:hamzanasar144@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hamza" /></a> <a href="https://hamzanasar.com/resume" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-View-334155?style=for-the-badge" alt="View resume" /></a>
+</p>
 
-<br/><br/>
+**Karachi, Pakistan** · **3+ years of product delivery** · **Available for remote work**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:22c55e&height=180&section=header&text=Hamza%20Nasar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Full Stack AI Developer | SaaS Builder | Real-Time Systems Engineer
-
-**Building AI-powered solutions that transform businesses with scalable architecture, premium UX, automation, and real-world product thinking.**
+<p align="center">
+<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-334155?style=for-the-badge&logo=readdotcv&logoColor=white" height="28" alt="ABOUT" /></a> <a href="#️-skills--tools"><img src="https://img.shields.io/badge/SKILLS-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" height="28" alt="SKILLS" /></a> <a href="#-selected-work"><img src="https://img.shields.io/badge/PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" height="28" alt="PROJECTS" /></a> <a href="#-what-i-can-help-you-build"><img src="https://img.shields.io/badge/SERVICES-334155?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="SERVICES" /></a> <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-7C3AED?style=for-the-badge&logo=simpleanalytics&logoColor=white" height="28" alt="ANALYTICS" /></a>
+</p>
 
 </div>
 
@@ -40,252 +22,178 @@
 
 ## 💫 About Me
 
-I'm **Hamza Nasar**, a **Full Stack AI Developer** focused on building **AI-powered business solutions, enterprise applications, SaaS products, automation systems, and real-time platforms**.
+I'm a **Full Stack AI & SaaS Engineer** with **3+ years of full-stack product delivery**. I build AI agents, voice workflows, SaaS platforms, admin dashboards, and realtime systems with practical architecture and polished UX.
 
-I combine **clean architecture**, **modern frontend engineering**, **scalable backend systems**, and **AI integration** to create products that are not only functional, but also fast, reliable, and polished.
+- 🤖 **AI agents & automation:** tool calling, command routing, prompt systems, and business workflows with OpenAI and Gemini.
+- 🎙️ **Voice & realtime:** speech input/output, ElevenLabs TTS, WebRTC, LiveKit, Socket.IO, and WebSocket audio bridges.
+- 🚀 **SaaS products:** authentication, billing, admin consoles, analytics, and SEO foundations.
+- 🗄️ **Backend & data:** NestJS and FastAPI APIs, database migrations, queues, validation, and reliable deployment workflows.
+- 🧪 **Delivery:** build, test, and verify with Playwright, Vitest, and pytest.
 
-- 🔥 Full Stack AI Developer
-- ⚡ MERN / Next.js / TypeScript Specialist
-- 🧠 AI Integrations, Automation, and Product Engineering
-- 🏗️ Scalable APIs, Auth Systems, and Cloud-Ready Architectures
-- 🌐 Real-Time Systems with Socket.io / WebSocket / WebRTC
-- 🎯 Focused on performance, reliability, scalability, and business impact
+## 🛠️ Skills & Tools
 
----
+### 🎨 Frontend
 
-## 🛠️ Tech Arsenal
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS" />
 
-<div align="center">
+**React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,bootstrap,docker,git,github,postman,vscode,vercel" />
+### ⚙️ Backend & Data
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,express,postgres,mongodb,redis,prisma&theme=dark&perline=9" alt="Node.js, NestJS, Python, FastAPI, Express, PostgreSQL, MongoDB, Redis, Prisma" />
 
-<img src="https://img.shields.io/badge/OpenAI-AI%20Integration-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-Real--Time-010101?style=flat-square&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-API-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-Infrastructure-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/WebRTC-Live%20Streaming-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-16A34A?style=flat-square&logo=githubactions&logoColor=white" />
+**Node.js · NestJS · Python · FastAPI · Express · PostgreSQL · MongoDB Atlas · Redis**  
+Prisma · TypeORM · SQLAlchemy · Alembic · BullMQ · Zod
 
-</div>
+### 🤖 AI Agents & Voice
 
----
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/ElevenLabs_TTS-111827?style=for-the-badge" alt="ElevenLabs text-to-speech" /> <img src="https://img.shields.io/badge/Voice_Workflows-06B6D4?style=for-the-badge" alt="Voice workflows" />
+</p>
 
-## 🚀 What I Build
+Tool calling · Command routing · Prompt systems · Speech input/output · Business automation
 
-<div align="center">
+### ⚡ Realtime & SaaS
 
-| AI Solutions | SaaS Products | Enterprise Apps |
-|---|---|---|
-| Automation Systems | Real-Time Platforms | Scalable APIs |
+<p>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /> <img src="https://img.shields.io/badge/LiveKit-111827?style=for-the-badge" alt="LiveKit" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" /> <img src="https://img.shields.io/badge/WebSocket-0F766E?style=for-the-badge" alt="WebSocket" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
 
-</div>
+Audio streaming · Live dashboards · Runtime metrics · NextAuth & OAuth · Stripe checkout & webhooks · RBAC · Analytics
 
-- ✅ AI-powered automation workflows
-- ✅ Enterprise-grade web applications
-- ✅ SaaS platforms and dashboards
-- ✅ Real-time messaging and live systems
-- ✅ REST / GraphQL APIs
-- ✅ Authentication and RBAC systems
-- ✅ Cloud deployment and DevOps workflows
-- ✅ Premium, high-performance frontend experiences
+### 🧪 Testing & Deployment
+
+<img src="https://skillicons.dev/icons?i=docker,vitest,vercel,git,github&theme=dark" alt="Docker, Vitest, Vercel, Git, GitHub" />
+
+**Playwright · Vitest · pytest · Docker Compose · Vercel · Railway · Render**  
+Security headers · Rate limits · Environment setup · SEO & performance checks
 
 ---
 
-## 🔥 Core Strengths
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Problem%20Solving-Advanced-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-Scalable-0f766e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-2563eb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend-Robust-111827?style=for-the-badge" />
-
-</div>
-
-- Architecture that scales
-- Clean and maintainable code
-- Fast, polished interfaces
-- Business-first product mindset
-- AI-enhanced workflows
-- Reliable real-time experiences
-
----
-
-## 🌟 Featured Projects
-
-### 🏥 Hospital Management System
-A modern full-stack healthcare platform built for **real-world hospital workflows** with **AI-powered assistance**, **real-time doctor-patient interactions**, **appointment management**, **inventory handling**, and **role-based access control**.
-
-**Highlights**
-- Real-time communication and updates
-- AI-assisted workflows
-- Secure RBAC architecture
-- Full-stack healthcare operations
-
-**Tech Stack**  
-`Next.js` `TypeScript` `Prisma` `MongoDB` `Socket.io` `OpenAI` `MUI`
-
-**Links**
-- 🔗 **Live:** [hm-system-roan.vercel.app](https://hm-system-roan.vercel.app)
-- 🔗 **Code:** [github.com/Hamza-Nasar/hms-system](https://github.com/Hamza-Nasar/hms-system)
-
----
-
-### ⚡ DevConnect
-A modern **real-time social platform for developers** designed for **speed, reliability, and scale**, featuring **AI-assisted interactions** and a **hybrid architecture** for stateful real-time communication.
-
-**Highlights**
-- Fault-tolerant messaging
-- Real-time social interactions
-- AI-assisted user experience
-- Hybrid deployment architecture
-
-**Tech Stack**  
-`Next.js` `React` `Socket.io` `Zustand` `Gemini AI` `Tailwind CSS` `MongoDB`
-
-**Links**
-- 🔗 **Live:** [dev-connect-iota-silk.vercel.app](https://dev-connect-iota-silk.vercel.app)
-- 🔗 **Code:** [github.com/Hamza-Nasar/DevConnect](https://github.com/Hamza-Nasar/DevConnect)
-
----
-
-## 🧠 Currently Focused On
-
-- AI-powered SaaS platforms
-- Real-time apps and communication systems
-- Workflow automation for businesses
-- Scalable backend systems and APIs
-- Premium product UI and frontend architecture
-
----
-
-## 💼 Services
-
-<div align="center">
+## 🌟 Selected Work
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🤖 AI Automation</h3>
-      Smart workflows, AI integrations, process automation, and custom business solutions.
-    </td>
-    <td align="center" width="33%">
-      <h3>🏢 Enterprise Apps</h3>
-      Secure, scalable, high-performance applications with modern architecture and premium UX.
-    </td>
-    <td align="center" width="33%">
-      <h3>🚀 SaaS Development</h3>
-      Multi-tenant platforms, dashboards, analytics, subscriptions, and product-focused engineering.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚡ Real-Time Systems</h3>
-      Live chat, real-time dashboards, streaming, sync engines, and collaboration features.
-    </td>
-    <td align="center" width="33%">
-      <h3>🧩 Full-Stack Development</h3>
-      Frontend, backend, APIs, auth, databases, integrations, and complete product delivery.
-    </td>
-    <td align="center" width="33%">
-      <h3>☁️ Cloud & DevOps</h3>
-      Docker, AWS, CI/CD, deployment pipelines, and scalable infrastructure workflows.
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ ReplyPilot AI
+
+**Catalog-aware sales automation**
+
+A sales assistant for clothing stores with seller authentication, catalogs, order capture, chat, and analytics.
+
+`Next.js` `AI Agents` `Seller Dashboard`
+
+<a href="https://www.replypilotagent.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LIVE%20DEMO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="LIVE DEMO" /></a> <a href="https://github.com/Hamza-Nasar/ReplyPilotAi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-334155?style=for-the-badge&logo=github&logoColor=white" height="28" alt="SOURCE CODE" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Kayanne Live Avatar
+
+**Realtime conversational AI**
+
+Microphone input, speech recognition, LLM responses, voice output, and a LiveAvatar stream with session management.
+
+`Next.js` `NestJS` `Voice AI` `LiveAvatar`
+
+<a href="https://github.com/Hamza-Nasar/Kayanne-Live-Avatar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-334155?style=for-the-badge&logo=github&logoColor=white" height="28" alt="SOURCE CODE" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 VEN
+
+**Vertical Entertainment Network**
+
+A drama streaming platform with discovery, trailers, episode playback, wallet credits, and Stripe payments.
+
+`Next.js` `NestJS` `PostgreSQL` `Redis` `Stripe`
+
+<a href="https://verticalentertainmentnetwork.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LIVE%20DEMO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="LIVE DEMO" /></a> <a href="https://github.com/Hamza-Nasar/VEN" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-334155?style=for-the-badge&logo=github&logoColor=white" height="28" alt="SOURCE CODE" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Personal Voice Agent
+
+**Local-first voice automation**
+
+Natural speech becomes commands, tool calls, and practical automations through an extensible local runtime.
+
+`Python` `Voice AI` `Command Routing`
+
+<a href="https://github.com/Hamza-Nasar/PersonalVoiceAgent" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SOURCE%20CODE-334155?style=for-the-badge&logo=github&logoColor=white" height="28" alt="SOURCE CODE" /></a>
+
+</td>
+</tr>
 </table>
 
-</div>
+**Also built:**
 
-## 📈 Impact Snapshot
+<p>
+<a href="https://github.com/Hamza-Nasar/hms-system" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HOSPITAL%20MANAGEMENT-334155?style=for-the-badge&logo=github&logoColor=white" height="28" alt="HOSPITAL MANAGEMENT" /></a> <a href="https://github.com/Hamza-Nasar/DevConnect" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DEVCONNECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" height="28" alt="DEVCONNECT" /></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Projects%20Delivered-50%2B-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Client%20Satisfaction-98%25-15803D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20SaaS%20%2B%20RealTime-7C3AED?style=for-the-badge" />
-</div>
+<a href="https://hamzanasar.com/#projects" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="EXPLORE PORTFOLIO" /></a>
+
+---
+
+## 💼 What I Can Help You Build
+
+| Service | Focus |
+| --- | --- |
+| 🤖 AI Agents & Workflow Automation | Custom assistants, tool calling, command routers, and business process automation |
+| 🎙️ Realtime Voice & Avatar Systems | WebRTC, LiveKit, audio streaming, live chat, and realtime dashboards |
+| 🚀 SaaS MVP & Platform Engineering | Authentication, Stripe billing, admin workflows, analytics, and SEO |
+| 🗄️ Backend & Data Platforms | APIs, databases, migrations, queues, and validation |
+| 📊 Internal Tools & Dashboards | RBAC, inventory interfaces, reports, moderation, and operational consoles |
+| 🐳 Deployment & Product Hardening | Docker, environment setup, security headers, rate limits, and deployment checks |
+
+## 🧠 Current Focus
+
+AI agents and voice systems · Realtime product workflows · SaaS platforms · Backend architecture · Production validation
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/Hamza-Nasar?tab=repositories">
-    <img height="170" src="./profile/stats.svg" alt="Hamza Nasar's GitHub statistics, generated from GitHub data" />
-  </a>
-  <a href="https://github.com/Hamza-Nasar#contributions">
-    <img height="170" src="./profile/streak.svg" alt="Hamza Nasar's total contributions, current streak, and longest streak" />
-  </a>
-
-  <br/><br/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Nasar&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=21600" alt="Most used languages across Hamza Nasar's public repositories" />
-</div>
+<p align="center">
+<a href="https://github.com/Hamza-Nasar?tab=repositories" target="_blank" rel="noopener noreferrer"><img height="170" src="./profile/stats.svg" alt="Hamza Nasar's GitHub statistics, generated from GitHub data" /></a> <a href="https://github.com/Hamza-Nasar#contributions" target="_blank" rel="noopener noreferrer"><img height="170" src="./profile/streak.svg" alt="Hamza Nasar's total contributions, current streak, and longest streak" /></a>
+</p>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Nasar&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=21600" alt="Most used languages across Hamza Nasar's public repositories" />
+</p>
 
 <p align="center">
-  Updated hourly from the GitHub API. Commit, PR and issue counts cover repositories accessible to the token. Private activity with unavailable details is shown separately and included in the contribution calendar; it is not assumed to be commits. Language statistics cover public repositories.
-  <a href="https://github.com/Hamza-Nasar#contributions">View current GitHub activity</a>.
+Updated hourly from the GitHub API. Commit, PR and issue counts cover repositories accessible to the token.<br/>
+Private activity with unavailable details is shown separately and included in the contribution calendar; it is not assumed to be commits.<br/>
+Language statistics cover public repositories. <a href="https://github.com/Hamza-Nasar#contributions" target="_blank" rel="noopener noreferrer">View current GitHub activity</a>.
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-nasar&bg_color=0d1117&color=8b5cf6&line=22c55e&point=f8fafc&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamza-nasar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="Trophies" />
-</div>
-
----
-
-## 🐍 Snake Contribution
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<p align="center">
+<a href="https://github.com/Hamza-Nasar#contributions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-View_Contribution_Calendar-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Hamza Nasar's contribution calendar on GitHub" /></a>
+</p>
 
 ---
 
 ## 🌍 Connect With Me
 
-<div align="center">
-  <a href="mailto:hamzanasar144@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/hamza-nasar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://hamza-dev-blond.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  <a href="https://linkedin.com/in/hamza-nasar-1363a4337" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</div>
-
----
-
-## 💭 Philosophy
-
-> I believe great software is not just about code —  
-> it’s about solving real problems, creating smooth experiences,  
-> and building systems that scale with confidence.
-
----
-
-<div align="center">
-
-### ✨ Building AI-powered products with performance, scale, and design in mind.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:22c55e&height=120&section=footer" />
-
-</div>
+<p align="center">
+<a href="https://hamzanasar.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/hamza-nasar-ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a> <a href="https://github.com/Hamza-Nasar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a> <a href="mailto:hamzanasar144@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+</p>
+<p align="center">
+<a href="https://hamzanasar.com/resume" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VIEW%20RESUME-334155?style=for-the-badge&logo=readdotcv&logoColor=white" height="28" alt="VIEW RESUME" /></a> <a href="https://calendly.com/hamzanasar144/30min" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BOOK%20A%20CALL-0891B2?style=for-the-badge&logo=calendly&logoColor=white" height="28" alt="BOOK A CALL" /></a>
+</p>
+<p align="center">
+<strong>Building practical AI, SaaS, and realtime products — from interface to deployment.</strong>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:7C3AED,100:06B6D4&height=36&section=footer" width="100%" height="36" alt="Purple and cyan footer wave" />
+</p>
