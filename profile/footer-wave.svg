@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="72" viewBox="0 0 1000 72" preserveAspectRatio="none" role="img" aria-label="Animated cyan and purple liquid wave">
+<defs><linearGradient id="wave"><stop stop-color="#0891b2"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<path d="M0 24 C160 0 260 46 420 24 S680 0 840 24 S960 46 1000 24 L1000 72 L0 72 Z" fill="url(#wave)" opacity=".5"><animate attributeName="d" dur="8s" values="M0 24 C160 0 260 46 420 24 S680 0 840 24 S960 46 1000 24 L1000 72 L0 72 Z;M0 34 C160 58 260 10 420 34 S680 58 840 34 S960 10 1000 34 L1000 72 L0 72 Z;M0 24 C160 0 260 46 420 24 S680 0 840 24 S960 46 1000 24 L1000 72 L0 72 Z" repeatCount="indefinite"/></path>
+<path d="M0 42 C180 60 300 20 500 42 S800 60 1000 42 L1000 72 L0 72 Z" fill="url(#wave)"><animate attributeName="d" dur="6s" values="M0 42 C180 60 300 20 500 42 S800 60 1000 42 L1000 72 L0 72 Z;M0 44 C180 24 300 64 500 44 S800 24 1000 44 L1000 72 L0 72 Z;M0 42 C180 60 300 20 500 42 S800 60 1000 42 L1000 72 L0 72 Z" repeatCount="indefinite"/></path>
+</svg>
