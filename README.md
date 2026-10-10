@@ -13,22 +13,22 @@
 **Karachi, Pakistan** · **3+ years of product delivery** · **Available for remote work**
 
 <p align="center">
-<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-334155?style=for-the-badge&logo=readdotcv&logoColor=white" height="28" alt="ABOUT" /></a> <a href="#️-skills--tools"><img src="https://img.shields.io/badge/SKILLS-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" height="28" alt="SKILLS" /></a> <a href="#-selected-work"><img src="https://img.shields.io/badge/PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" height="28" alt="PROJECTS" /></a> <a href="#-what-i-can-help-you-build"><img src="https://img.shields.io/badge/SERVICES-334155?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="SERVICES" /></a> <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-7C3AED?style=for-the-badge&logo=simpleanalytics&logoColor=white" height="28" alt="ANALYTICS" /></a>
+<a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-334155?style=for-the-badge&logo=readdotcv&logoColor=white" height="28" alt="ABOUT" /></a> <a href="#️-skills--tools"><img src="https://img.shields.io/badge/SKILLS-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" height="28" alt="SKILLS" /></a> <a href="#-selected-work"><img src="https://img.shields.io/badge/PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" height="28" alt="PROJECTS" /></a> <a href="#-what-i-can-help-you-build"><img src="https://img.shields.io/badge/SERVICES-334155?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="SERVICES" /></a> <a href="#-github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-7C3AED?style=for-the-badge&logo=simpleanalytics&logoColor=white" height="28" alt="ANALYTICS" /></a>
 </p>
 
 </div>
 
 ---
 
-## 💫 About Me
+## <img src="./profile/icons/about.svg" width="26" height="26" alt="" /> About Me
 
 I'm a **Full Stack AI & SaaS Engineer** with **3+ years of full-stack product delivery**. I build AI agents, voice workflows, SaaS platforms, admin dashboards, and realtime systems with practical architecture and polished UX.
 
-- 🤖 **AI agents & automation:** tool calling, command routing, prompt systems, and business workflows with OpenAI and Gemini.
-- 🎙️ **Voice & realtime:** speech input/output, ElevenLabs TTS, WebRTC, LiveKit, Socket.IO, and WebSocket audio bridges.
-- 🚀 **SaaS products:** authentication, billing, admin consoles, analytics, and SEO foundations.
-- 🗄️ **Backend & data:** NestJS and FastAPI APIs, database migrations, queues, validation, and reliable deployment workflows.
-- 🧪 **Delivery:** build, test, and verify with Playwright, Vitest, and pytest.
+- <img src="./profile/icons/ai.svg" width="20" height="20" alt="" /> **AI agents & automation:** tool calling, command routing, prompt systems, and business workflows with OpenAI and Gemini.
+- <img src="./profile/icons/voice.svg" width="20" height="20" alt="" /> **Voice & realtime:** speech input/output, ElevenLabs TTS, WebRTC, LiveKit, Socket.IO, and WebSocket audio bridges.
+- <img src="./profile/icons/saas.svg" width="20" height="20" alt="" /> **SaaS products:** authentication, billing, admin consoles, analytics, and SEO foundations.
+- <img src="./profile/icons/backend.svg" width="20" height="20" alt="" /> **Backend & data:** NestJS and FastAPI APIs, database migrations, queues, validation, and reliable deployment workflows.
+- <img src="./profile/icons/delivery.svg" width="20" height="20" alt="" /> **Delivery:** build, test, and verify with Playwright, Vitest, and pytest.
 
 ## 🛠️ Skills & Tools
 
